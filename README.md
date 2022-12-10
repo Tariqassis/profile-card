@@ -18,6 +18,9 @@ cartão de contatos redes sociais
 
 ## Screenshots
 
+![Nova guia - Google Chrome 07_12_2022 22_54_19](https://user-images.githubusercontent.com/86030679/206878303-9f2c88e6-5c64-41de-ad61-90d72e4c92c9.png)
+
+![Nova guia - Google Chrome 07_12_2022 22_54_37](https://user-images.githubusercontent.com/86030679/206878315-3c434c30-e983-4bb4-99cd-21479a38c530.png)
 
 
 
