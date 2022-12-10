@@ -16,6 +16,14 @@ cartão de contatos redes sociais
 **Front-end:** HTML, CSS, JAVASCRIPT 
 
 
+
+## Como Vizualizar o projeto?
+- clique no link abaixo 
+
+https://tariqassis.github.io/profile-card/
+
+
+
 ## Screenshots
 
 ![Nova guia - Google Chrome 07_12_2022 22_54_19](https://user-images.githubusercontent.com/86030679/206878303-9f2c88e6-5c64-41de-ad61-90d72e4c92c9.png)
