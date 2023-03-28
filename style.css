@@ -41,8 +41,8 @@ html {
 }
 
 .image {
-    width: 80px;
-    height: 80px;
+    width: 120px;
+    height: 120px;
     margin-right: 15px;
 }
 
@@ -60,7 +60,7 @@ html {
 }
 
 .board-data h3 {
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 400;
     letter-spacing: 0.1rem;
     margin-bottom: 1rem;
@@ -178,15 +178,15 @@ html {
     border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
-.email {
+.site {
     transition: all 0.5s 0.3s;
 }
 
-.fb {
+.wb {
     transition: all 0.5s 0.5s;
 }
 
-.linkedin {
+.insta {
     transition: all 0.5s 0.7s;
 }
 
@@ -210,16 +210,16 @@ html {
     margin-right: 25px;
 }
 
-.email .icon-wrapper {
+.site .icon-wrapper {
     background-color: #dd4b39;
 }
 
-.fb .icon-wrapper {
-    background-color: #3b5998;
+.wb .icon-wrapper {
+    background-color: #128c7e;
 }
 
-.linkedin .icon-wrapper {
-    background-color: #007bb6;
+.insta .icon-wrapper {
+    background-color: #E4405F;
 }
 
 .github .icon-wrapper {
@@ -236,15 +236,15 @@ html {
     margin-bottom: 4px;
 }
 
-.email h4 {
-    color: #000
+.site h4 {
+    color: #000;
 }
 
-.fb h4 {
+.wb h4 {
     color: #3b5998;
 }
 
-.linkedin h4 {
+.insta h4 {
     color: #007bb6;
 }
 
